@@ -1,0 +1,78 @@
+{
+  "name": "Saltmarsh",
+  "title": "Ghosts of Saltmarsh",
+  "description": "<h2>ADVENTURE ON THE HIGH SEAS</h2>\n<p>Explore the waves above and the fathoms below in these watery adventures for the world’s greatest roleplaying game.</p>\n<p> </p>\n<p>Nestled on the coast of the Azure Sea is Saltmarsh, a sleepy fishing village that sits on the precipice of destruction. Smugglers guide their ships to hidden coves, willing to slit the throat of anyone foolhardy enough to cross their path. Cruel sahuagin gather beneath the waves, plotting to sweep away coastal cities. Drowned sailors stir to unnatural life, animated by dark magic and sent forth in search of revenge. The cult of a forbidden god extends its reach outward from a decaying port, hungry for fresh victims and willing recruits. While Saltmarsh slumbers, the evils that seek to plunder it grow stronger. Heroes must arise to keep the waves safe!</p>\n<p> </p>\n<p>Ghosts of Saltmarsh combines some of the most popular classic adventures from the first edition of Dungeons &amp; Dragons including the classic ‘U’ series and some of the best nautical adventures from Dungeon magazine:</p>\n<ul>\n<li>The Sinister Secret of Saltmarsh</li>\n<li>Danger at Dunwater</li>\n<li>The Final Enemy</li>\n<li>Salvage Operation</li>\n<li>Isle of the Abbey</li>\n<li>Tammeraut’s Fate</li>\n<li>The Styes</li>\n</ul>\n<p> </p>\n<p>All adventures have been faithfully adapted to the fifth edition rules of Dungeons &amp; Dragons. Furthermore, this book includes details on the port town of Saltmarsh, as well as plenty of hooks to kick-off each adventure. Play through each story in a seafaring campaign leading characters from level 1 through level 12, or pull out sections to place in ongoing campaigns in any setting. The appendices also cover mechanics for ship-to-ship combat, new magic items, monsters, and more!</p>\n<p> </p>\n<blockquote>\n<p>“The Saltmarsh series consistently ranks as one of the most popular classic D&amp;D adventures,” said Mike Mearls, franchise creative director of D&amp;D. “With its ties to ocean-based adventuring, it was an obvious step to augment it with additional sea-based adventures and a robust set of rules for managing a nautical campaign.”</p>\n</blockquote>\n<p> </p>\n<p><em>Hoist your sails, pull up anchor, and set a course for adventure!</em></p>\n<p> </p>\n<h4>Product Information</h4>\n<blockquote>\n<p>System: <strong>D&amp;D 5E</strong></p>\n<p>Starting Level: <strong>Low (1-15)</strong></p>\n<p>Length: <strong>Long Campaign</strong></p>\n</blockquote>\n<p> </p>\n<hr />",
+  "author": [
+    "WotC",
+    "R20Converter"
+  ],
+  "authors": [],
+  "readme": "README.md",
+  "flags": {},
+  "version": "0.1.2",
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "0.7.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "packs": [],
+  "system": "dnd5e",
+  "dependencies": [
+    {
+      "name": "plutonium",
+      "manifest": "https://get.5e.tools/plutonium/module.json",
+      "version": "1.7.0",
+      "author": "Giddy",
+      "type": "module"
+    },
+    {
+      "name": "DancingLights",
+      "manifest": "https://raw.githubusercontent.com/BlitzKraig/fvtt-DancingLights/master/module.json",
+      "version": "2.1.5",
+      "author": "Blitzkraig",
+      "type": "module"
+    },
+    {
+      "name": "multilevel-tokens",
+      "manifest": "https://raw.githubusercontent.com/grandseiken/foundryvtt-multilevel-tokens/v0.3.0/module.json",
+      "version": "0.4.0",
+      "author": "grandseiken",
+      "type": "module"
+    },
+    {
+      "name": "parallaxia",
+      "manifest": "https://gitlab.com/reichler/parallaxia/raw/master/parallaxia/module.json",
+      "version": "0.2.9",
+      "author": "wonko",
+      "type": "module"
+    },
+    {
+      "name": "teleport",
+      "manifest": "https://raw.githubusercontent.com/knassher/FVTT-Teleport/master/module.json",
+      "version": "2.1.7",
+      "author": "knassher",
+      "type": "module"
+    },
+    {
+      "name": "Token HUD Wildcard",
+      "manifest": "https://raw.githubusercontent.com/javieros105/FVTT-TokenHUDWildcard/master/token-hud-wildcard/module.json",
+      "version": "1.0.0",
+      "author": "javieros",
+      "type": "module"
+    }
+  ],
+  "socket": false,
+  "protected": false,
+  "background": "worlds/cor-gos/scenes/backgrounds/StartLogin.webp",
+  "coreVersion": "9.255",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.5.7"
+}
